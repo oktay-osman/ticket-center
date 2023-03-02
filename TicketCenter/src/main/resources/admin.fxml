@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="520.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.AdminController">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="520.0">
+         <children>
+            <AnchorPane prefHeight="82.0" prefWidth="520.0" style="-fx-background-color: #ECECE7;">
+               <children>
+                  <Label layoutX="189.0" layoutY="28.0" text="Admin panel">
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <Button fx:id="createOrganizerButton" layoutX="124.0" layoutY="141.0" mnemonicParsing="false" onAction="#createOrganizerButtonOnAction" prefHeight="25.0" prefWidth="272.0" text="Create organizer">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="createDistributorButton" layoutX="124.0" layoutY="175.0" mnemonicParsing="false" onAction="#createDistributorButtonOnAction" prefHeight="25.0" prefWidth="272.0" text="Create distributor">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="createEventButton" layoutX="124.0" layoutY="209.0" mnemonicParsing="false" onAction="#createEventButtonOnAction" prefHeight="25.0" prefWidth="272.0" text="Create/update event">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="profilesButton" layoutX="124.0" layoutY="243.0" mnemonicParsing="false" onAction="#profilesButtonOnAction" prefHeight="25.0" prefWidth="272.0" text="Organizer/Distributor profiles">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="distributorRatingButton" layoutX="124.0" layoutY="279.0" mnemonicParsing="false" onAction="#distributorRatingButtonOnAction" prefHeight="25.0" prefWidth="272.0" text="Distributor ratings">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Button>
+            <Button fx:id="backButton" layoutX="190.0" layoutY="349.0" mnemonicParsing="false" onAction="#backButtonOnAction" prefHeight="25.0" prefWidth="140.0" text="Log out" />
+            <ImageView fx:id="adminImageView" fitHeight="84.0" fitWidth="158.0" layoutX="15.0" layoutY="291.0" pickOnBounds="true" preserveRatio="true" style="-fx-blend-mode: #ECECE7;">
+               <image>
+                  <Image url="@../../../../../Downloads/admin1.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

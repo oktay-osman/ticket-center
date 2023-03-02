@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ticket_center@localhost" uuid="9f870655-99b4-420a-955a-acf84d7c7038">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/ticket_center</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ticket_center_schema@localhost" uuid="5f7e35de-1078-4c0c-99d0-46863795c35f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/ticket_center_schema</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d82966e-53f0-4614-9a60-5de1d83cc1b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ticket_center@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ticket_center@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ticket_center@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ticket_center: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ticket_center_schema@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ticket_center_schema@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ticket_center_schema@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ticket_center_schema: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AfaLWE51ZM9mUcKPGVwhgEZsqE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/admin.fxml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="controllers" />
+      <recent name="com.oktay_osman" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oktay_osman" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\my\IdeaProjects\TicketCenter\src\main\resources" />
+      <recent name="C:\Users\my\IdeaProjects\TicketCenter\src\main\java\controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="models.Main" />
+      <module name="TicketCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oktay_osman.Main" />
+      <module name="TicketCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="ticket_center@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="ticket_center@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@527a628c" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d82966e-53f0-4614-9a60-5de1d83cc1b8" name="Default Changelist" comment="" />
+      <created>1655403037252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655403037252</updated>
+      <workItem from="1655403038830" duration="5124000" />
+      <workItem from="1655900720287" duration="2976000" />
+      <workItem from="1655973565546" duration="1520000" />
+      <workItem from="1655980165903" duration="2847000" />
+      <workItem from="1656002076713" duration="21000" />
+      <workItem from="1656058845058" duration="6292000" />
+      <workItem from="1656147560076" duration="5215000" />
+      <workItem from="1656237621600" duration="1204000" />
+      <workItem from="1656262709090" duration="46000" />
+      <workItem from="1656447336000" duration="3316000" />
+      <workItem from="1656706454725" duration="18000" />
+      <workItem from="1656756448666" duration="1198000" />
+      <workItem from="1656773072264" duration="1984000" />
+      <workItem from="1656864180856" duration="2501000" />
+      <workItem from="1656923325129" duration="6272000" />
+      <workItem from="1657128357375" duration="690000" />
+      <workItem from="1657130813745" duration="2014000" />
+      <workItem from="1657178506275" duration="1787000" />
+      <workItem from="1657266722099" duration="1192000" />
+      <workItem from="1657371716746" duration="671000" />
+      <workItem from="1658210675770" duration="1182000" />
+      <workItem from="1658256695673" duration="2617000" />
+      <workItem from="1658259369469" duration="877000" />
+      <workItem from="1658307445628" duration="591000" />
+      <workItem from="1658558123659" duration="241000" />
+      <workItem from="1658562901573" duration="595000" />
+      <workItem from="1658574503835" duration="1114000" />
+      <workItem from="1658672023445" duration="592000" />
+      <workItem from="1659291576943" duration="130000" />
+      <workItem from="1659295514193" duration="3420000" />
+      <workItem from="1659337478217" duration="497000" />
+      <workItem from="1659548087153" duration="611000" />
+      <workItem from="1660667083756" duration="3725000" />
+      <workItem from="1660758692573" duration="4847000" />
+      <workItem from="1660986644336" duration="550000" />
+      <workItem from="1661012507879" duration="593000" />
+      <workItem from="1661181863664" duration="1188000" />
+      <workItem from="1661596101096" duration="358000" />
+      <workItem from="1662398619696" duration="1239000" />
+      <workItem from="1662492267905" duration="1343000" />
+      <workItem from="1664046821762" duration="1234000" />
+      <workItem from="1664562106997" duration="5169000" />
+      <workItem from="1664787200649" duration="388000" />
+      <workItem from="1664873492666" duration="780000" />
+      <workItem from="1665557533640" duration="596000" />
+      <workItem from="1665595377044" duration="3948000" />
+      <workItem from="1665773730842" duration="2487000" />
+      <workItem from="1665939813887" duration="1382000" />
+      <workItem from="1666205818326" duration="594000" />
+      <workItem from="1666708080806" duration="23000" />
+      <workItem from="1666813223792" duration="827000" />
+      <workItem from="1667151882891" duration="5939000" />
+      <workItem from="1667307456748" duration="596000" />
+      <workItem from="1667408138696" duration="4557000" />
+      <workItem from="1667996801455" duration="595000" />
+      <workItem from="1668070510932" duration="596000" />
+      <workItem from="1668853039584" duration="625000" />
+      <workItem from="1668872805119" duration="5000" />
+      <workItem from="1668884366577" duration="163000" />
+      <workItem from="1669802041126" duration="1670000" />
+      <workItem from="1670001406296" duration="24000" />
+      <workItem from="1671615572256" duration="1291000" />
+      <workItem from="1672773716734" duration="4318000" />
+      <workItem from="1672819111390" duration="2123000" />
+      <workItem from="1672856355992" duration="1090000" />
+      <workItem from="1673028195988" duration="1850000" />
+      <workItem from="1673257448500" duration="1776000" />
+      <workItem from="1673276242727" duration="1243000" />
+      <workItem from="1673348386386" duration="1192000" />
+      <workItem from="1673631543559" duration="515000" />
+      <workItem from="1673715664678" duration="132000" />
+      <workItem from="1673716107214" duration="599000" />
+      <workItem from="1674207360256" duration="2000" />
+      <workItem from="1675001346127" duration="1974000" />
+      <workItem from="1675104259103" duration="1620000" />
+      <workItem from="1675108875157" duration="110000" />
+      <workItem from="1675109569169" duration="621000" />
+      <workItem from="1675197009842" duration="1123000" />
+      <workItem from="1675242584086" duration="30000" />
+      <workItem from="1675274440700" duration="10000" />
+      <workItem from="1676222049977" duration="63000" />
+      <workItem from="1676838784083" duration="409000" />
+      <workItem from="1676925299522" duration="619000" />
+      <workItem from="1677138977501" duration="1601000" />
+      <workItem from="1677331550904" duration="124000" />
+      <workItem from="1677509396429" duration="1661000" />
+      <workItem from="1677528165379" duration="14000" />
+      <workItem from="1677528320895" duration="4000" />
+      <workItem from="1677529782851" duration="1387000" />
+      <workItem from="1677694636036" duration="2850000" />
+      <workItem from="1677787474393" duration="3498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1677694716400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1677694716400" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1673028548256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1673028548256" />
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1677791965396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1677791965396" />
+    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1677791965396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1677791965396" />
+    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1677791965396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1677791965396" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1677791965396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1677791965396" />
+    <state x="621" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1672777994136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1672777994136" />
+    <state x="395" y="215" key="new project wizard" timestamp="1677512248709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="395" y="215" key="new project wizard/0.0.1920.1040/-1280.48.1280.984@0.0.1920.1040" timestamp="1677512248709" />
+  </component>
+</project>
